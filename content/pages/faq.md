@@ -52,9 +52,9 @@ sections:
   - type: contact_section
     image: images/promo.jpg
     section_id: contact_section
-    address: '226 rue St-Joseph E, Québec, QC, Canada, G1K 3A9'
-    phone: +1-202-555-0112
-    email: geeks@snipcart.com
+    address: '226 St-Joseph Street, Sydney, Australia, 2000'
+    phone: +64-210-877-42
+    email: maries@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
